@@ -207,7 +207,7 @@ This project is licensed under the MIT License.
 
 **Jason Ngariu**
 
-* GitHub: [https://github.com/JeromeJason]
+* GitHub: https://github.com/JeromeJason-dev
 * Email:jasonnem048@gmail.com
 
 ## Vision
