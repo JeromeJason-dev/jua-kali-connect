@@ -149,7 +149,7 @@ npm start
 
 Create a .env file in both frontend and backend directories:
 
-Backend
+## Backend
 
 **Plaintext**
 
@@ -162,14 +162,14 @@ MPESA_CONSUMER_KEY=your_key
 MPESA_CONSUMER_SECRET=your_secret
 
 
-Frontend
+## Frontend
 
 **Plaintext**
 
 REACT_APP_API_URL=http://localhost:8000/api
 
 
-Testing
+## Testing
 
 **Bash**
 
@@ -180,7 +180,7 @@ python manage.py test
 npm test
 
 
-Deployment
+## Deployment
 
 1. **Build frontend:** npm run build
 2. **Use Docker for full-stack deployment:** docker-compose up --build
@@ -189,7 +189,7 @@ Deployment
    * Azure
    * Render / Vercel (frontend)
 
-Contributing
+## Contributing
 
 Contributions are welcome!
 
@@ -199,17 +199,17 @@ Contributions are welcome!
 4. Push to your branch
 5. Open a Pull Request
 
-License
+## License
 
 This project is licensed under the MIT License.
 
-Author
+## Author
 
-**Your Name**
+**Jason Ngariu**
 
-* GitHub: https://github.com/your-username
-* Email: your-email@example.com
+* GitHub: [https://github.com/JeromeJason]
+* Email:jasonnem048@gmail.com
 
-Vision
+## Vision
 
 To digitize and empower the Jua Kali sector by providing accessible, scalable, and efficient software solutions that enhance productivity and market reach.
