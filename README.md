@@ -214,3 +214,5 @@ This project is licensed under the MIT License.
 ## Vision
 
 To digitize and empower the Jua Kali sector by providing accessible, scalable, and efficient software solutions that enhance productivity and market reach.
+
+[def]: assets/images/1001562223.jpg
